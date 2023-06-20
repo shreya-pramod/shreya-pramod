@@ -13,12 +13,11 @@ Tools: Oracle SQL Developer, Git, Linux<br>
 
 ✨ Experience and Achievements
 
-Teaching Assistant at RIT (Big Data)
-Software Development Engineer Intern at Amazon Web Services
-Computer Science Grader at RIT
-Member of Women in Computing at RIT, Jan 2022 - Aug 2022
-Actively participated in promoting and supporting women in the field of computing
-Software Engineer at M. H. Alshaya Co.
+Teaching Assistant at RIT (Big Data)<br>
+Software Development Engineer Intern at Amazon Web Services<br>
+Computer Science Grader at RIT<br>
+Member of Women in Computing at RIT<br>
+Software Engineer at M. H. Alshaya Co.<br>
 
 🔧 Let's Connect!
 
