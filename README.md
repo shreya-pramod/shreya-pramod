@@ -28,7 +28,7 @@ https://www.linkedin.com/in/shreya-pramod/
 
 Thanks for stopping by! 🌟
 
-https://holopin.io/@shreyapramod
+
 
 
 
